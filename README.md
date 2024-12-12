@@ -28,10 +28,6 @@ Este proyecto es una API RESTful construida con Laravel que incluye autenticaci√
 Sigue los pasos para instalar el proyecto localmente:
 
 1. **Clonar el repositorio**:
-   ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-proyecto>
-   ```
 
 2. **Instalar dependencias de PHP**:
    ```bash
