@@ -15,7 +15,6 @@ Route::group([
     Route::post('register', [AuthController::class, 'register']);
 });
 
-// Aquí puedes registrar tus rutas de la API
 Route::get('/test', function () {
     return response()->json(['message' => 'API funcionando']);
 });
